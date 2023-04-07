@@ -1,0 +1,58 @@
+import 'package:project_name/model/personal_Info.dart';
+
+// List<PersonalInfo> listMockup = [
+//   PersonalInfo(
+//     firstName: "John",
+//     lastName: "Snow",
+//     phoneNumber: "064-123-4567",
+//     email: "",
+//     address: "123/456",
+//     idNumber: "1234567890123",
+//     province: [],
+//   ),
+  // PersonalInfo(
+  //   firstName: "Rob",
+  //   lastName: "Stark",
+  //   phoneNumber: "094-123-4567",
+  //   email: "Rob@gmail.com",
+  //   address: "233/102",
+  //      province: "กรุงเทพมหานคร",
+  //   idNumber: "2344567890123",
+  // ),
+  // PersonalInfo(
+  //   firstName: "Sansa",
+  //   lastName: "Arya",
+  //   phoneNumber: "083-123-4567",
+  //   email: "Sansa@gmail.com",
+  //   address: "223/112",
+  //      province: "กรุงเทพมหานคร",
+  //   idNumber: "1234567321123",
+  // ),
+  // PersonalInfo(
+  //   firstName: "Jedi",
+  //   lastName: "Master",
+  //   phoneNumber: "086-288-1992",
+  //   email: "Jedi",
+  //   address: "281/234",
+  //      province: "ชัยนาท",
+  //   idNumber: "1117256895521",
+  // ),
+  // PersonalInfo(
+  //   firstName: "Frodo",
+  //   lastName: "Underhill",
+  //   phoneNumber: "062-321-2498",
+  //   email: "Frodo@gmail.com",
+  //   address: "330/503",
+  //     province: "ชัยนาท",
+  //   idNumber: "6784029485173",
+  // ),
+  // PersonalInfo(
+  //   firstName: "Yoda",
+  //   lastName: "Mandalorian",
+  //   phoneNumber: "092-442-3322",
+  //   email: "Yoda@gmail.com",
+  //   address: "994/221",
+  //     province: "ปทุมธานี",
+  //   idNumber: "9182372857124",
+  // ),
+// ];
